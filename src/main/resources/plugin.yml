@@ -1,0 +1,5 @@
+name: ParkourPlugin
+version: '${project.version}'
+main: me.itswagpvp.parkourplugin.ParkourPlugin
+depend: [ WorldGuard ]
+authors: [ _ItsWagPvP ]
