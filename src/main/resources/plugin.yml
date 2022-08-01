@@ -1,5 +1,6 @@
 name: ParkourPlugin
 version: '${project.version}'
 main: me.itswagpvp.parkourplugin.ParkourPlugin
+api-version: 1.13
 depend: [ WorldGuard ]
 authors: [ _ItsWagPvP ]
